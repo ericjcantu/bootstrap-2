@@ -1,0 +1,109 @@
+body{
+  box-sizing: border-box;
+  background-color: grey;
+}
+
+.navbar{
+border-radius: 10px;
+margin: 8px;
+padding: 10px;
+
+}
+
+.nav li a{
+
+}
+
+.portfolio{
+  background-color: darkgrey;
+  margin-bottom: 28px;
+  border-radius: 10px;
+  font-size: 30px;
+  font-family: 'Slabo 27px', serif;
+  margin-top: 22px;
+
+
+}
+
+.portfolio h2{
+  color:white;
+  font-size: 80px;
+  text-decoration: underline;
+  text-decoration-color: black;
+  padding-bottom: -1pc;
+  position: relative;
+  bottom: 6px;
+
+}
+
+.main-container{
+  background-color: grey;
+}
+
+.text-center h4{
+  color: white;
+}
+
+.footer-last{
+  height: 100px;
+  background-color:black;
+  border-radius: 10px;
+  color: white;
+  position: relative;
+  bottom: -17px;
+  margin-right: 6px;
+  margin-left: 6px;
+
+
+
+}
+
+.imgone{
+  border-radius: 20px;
+}
+
+.last-first{
+position: relative;
+bottom: -15px;
+word-spacing: 10px;
+
+}
+
+.last-second{
+position: relative;
+bottom: 13px;
+
+}
+
+.last-second a{
+  font-family: 'Source Code Pro', monospace;
+
+}
+
+.last-second p{
+position: relative;
+bottom: -19px;
+
+}
+
+.last-last{
+  position: relative;
+  background-color: #32CC93;
+  border-radius: 10px;
+  font-family: 'Yantramanav', sans-serif;
+  margin: 6px;
+  padding: 10px;
+  bottom: 8px;
+
+
+
+}
+
+.page-two{
+background-color: #4EC7FE;
+padding-top: 35px;
+margin-bottom: 20px;
+padding-bottom: 31px;
+position: relative;
+bottom: 20px;
+border-radius: 2px;}
